@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan aka kp</h1>
+<h1 align="center">Hi 👋, I'm Karan urf kp</h1>
 <h3 align="center">A global variable in a code who is into everything ... a full stack javascript developer :p</h3>
 
 - 🌱 I’m currently learning **C++**
